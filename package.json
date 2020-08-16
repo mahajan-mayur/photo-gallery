@@ -1,0 +1,24 @@
+{
+  "name": "photo-gallery",
+  "version": "1.0.0",
+  "description": "Photo Gallery Website Created By Mayur",
+  "main": "index.js",
+  "scripts": {
+  	"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+  	"lite": "lite-server"
+  },
+  "author": "Mayur Mahajan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahajan-mayur/photo-gallery.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahajan-mayur/photo-gallery.github.io/issues"
+  },
+  "homepage": "https://github.com/mahajan-mayur/photo-gallery.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
